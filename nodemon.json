@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_USER": "qasim",
+        "MONGO_PASSWORD": "1234",
+        "MONGO_DEFAULT_DATABASE": "shop",
+        "STRIPE_KEY": "sk_test_51PKLXyGzI6Ds2pCVZKs8dhNAJTvSivE0100Nx4alreJl50idGxfyLoHPBCp1UBFdaOstML0vL3X7T0f1ZZuEPUYe00PIiPUZ5f"
+    }
+}

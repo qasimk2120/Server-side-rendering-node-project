@@ -1,6 +1,6 @@
 {
     "env": {
-        "MONGODB_URI" : "mongodb+srv://qasim:1234@cluster0.sohvcbf.mongodb.net/socialApp",
+        "MONGODB_URI" : "mongodb+srv://qasim:1234@cluster0.sohvcbf.mongodb.net/shop",
         "STRIPE_KEY": "sk_test_51PKLXyGzI6Ds2pCVZKs8dhNAJTvSivE0100Nx4alreJl50idGxfyLoHPBCp1UBFdaOstML0vL3X7T0f1ZZuEPUYe00PIiPUZ5f"
     }
 }
